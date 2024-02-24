@@ -1,0 +1,6 @@
+org\sesame\ms\notification\NotificationController.class
+org\sesame\ms\notification\configuration\WebSocketConfig.class
+org\sesame\ms\notification\services\NotificationService.class
+org\sesame\ms\notification\configuration\NotificationHandler.class
+org\sesame\ms\notification\beans\ProjectJoinNotification.class
+org\sesame\ms\notification\NotificationApplicationService.class
